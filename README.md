@@ -117,7 +117,7 @@ This Power BI solution revolutionized AtliQ Hardware’s analytics, **enabling f
 ## 🔗 Let’s Connect & Collaborate!  
 💡 Have feedback or questions? I’d love to hear your thoughts!  
 📩 Let’s discuss data-driven strategies - connect with me on **[LinkedIn](https://www.linkedin.com/in/rachitgupta9993/)**  
-or reach me via email: **[khushijain0126@gmail.com](mailto:rachitgupta9993@gmail.com)!**  
+or reach me via email: **[rachitgupta9993@gmail.com](mailto:rachitgupta9993@gmail.com)!**  
 ⭐ If you found this project insightful, consider starring this repository!  
 
 ---
